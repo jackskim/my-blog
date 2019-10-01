@@ -1,6 +1,6 @@
 ---
 path: "/practical-javascript-day-2/"
-date: 2019-03-02T04:42:44+00:00
+date: "2019-03-02"
 title: "Practical Javascript Day 2"
 tags: ['javaScript']
 excerpt: "Spent a couple of hours today reviewing basic JS concepts..."
