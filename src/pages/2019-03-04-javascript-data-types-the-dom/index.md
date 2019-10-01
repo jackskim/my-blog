@@ -3,6 +3,7 @@ path: "/javascript-data-types-the-dom/"
 date: "2019-03-04"
 title: "JavaScript Data Types & The DOM"
 tags: ['javaScript']
+excerpt: "About 60% done with Gordon's Practical JavaScript Course now. Today's lessons were quite useful and covered JS data types and the DOM."
 ---
 
 # Javascript Data Types & The DOM

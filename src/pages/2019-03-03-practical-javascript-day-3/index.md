@@ -3,6 +3,7 @@ path: "/practical-javascript-day-3/"
 date: "2019-03-03"
 title: "Practical JavaScript Day 3"
 tags: ['javaScript']
+excerpt: "Spent another couple of hours on Gordon Zhu's Practical JavaScript Course.  Took a bit longer today to get through the lessons"
 ---
 
 # Practical JavaScript Day 3
