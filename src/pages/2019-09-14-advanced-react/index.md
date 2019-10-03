@@ -1,5 +1,5 @@
 ---
-permalink: "/advanced-react"
+path: "/advanced-react"
 title: "Advanced React"
 date: "2019-09-14"
 tags: ['javascript', 'react', 'web development']
