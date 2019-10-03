@@ -3,7 +3,7 @@ path: "/redux"
 title: "Redux"
 date: "2019-10-03"
 tags: ['react', 'redux', 'lambda school']
-excerpt: "" 
+excerpt: "Since my last post, I've been learning and implementing Redux..."
 ---
 
 # Redux
