@@ -7,6 +7,12 @@ Posts formatted for [GatsbyJS](https://www.gatsbyjs.org/).
 
 #### April
 
+- [2019-04-47 First Week of Lambda
+  School](./src/pages/2019-04-27-first-week-of-lambda-school/index.md)
+- [2019-04-26 Built & Launched a Portfolio
+  Website](./src/pages/2019-04-26-built-launched-a-portfolio-website/index.md)
+- [2019-04-11 Build Responsive Real World Websites | Course
+  Review](./src/pages/2019-04-11-build-responsive-real-world-websites-course-review/index.md)
 - [2019-04-03 Back To Some
   Visuals](./src/pages/2019-04-03-back-to-some-visuals.md)
 
