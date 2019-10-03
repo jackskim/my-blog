@@ -4,7 +4,7 @@ title: "React Router"
 date: "2019-08-13"
 tags: ['react', 'web development', 'lambda school']
 excerpt: "This has been the toughest week at Lambda School for me so far. What was so hard about it?..." 
-----
+---
 
 # React Router
 
