@@ -5,7 +5,15 @@ Posts formatted for [GatsbyJS](https://www.gatsbyjs.org/).
 
 ### 2019
 
+#### September
+- [2019-09-14 Advanced React](./src/pages/2019-09-14-advanced-react/index.md)
+- [2019-09-03 TSTUFF | Second Build Week
+  Complete!](./src/pages/2019-09-03-tstuff-second-build-week-complete/index.md)
+
 #### August
+- [2019-08-26 Form Handling & Build
+  Week](./src/pages/2019-08-26-form-handling-build-week/index.md)
+- [2019-08-13 React Router](./src/pages/2019-08-13-react-router/index.md)
 - [2019-08-04 August Update](./src/pages/2019-08-04-august-update/index.md)
 
 #### July
