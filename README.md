@@ -14,7 +14,7 @@ Posts formatted for [GatsbyJS](https://www.gatsbyjs.org/).
 - [2019-04-11 Build Responsive Real World Websites | Course
   Review](./src/pages/2019-04-11-build-responsive-real-world-websites-course-review/index.md)
 - [2019-04-03 Back To Some
-  Visuals](./src/pages/2019-04-03-back-to-some-visuals.md)
+  Visuals](./src/pages/2019-04-03-back-to-some-visuals/index.md)
 
 #### March
 
