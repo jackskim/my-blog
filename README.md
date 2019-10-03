@@ -5,6 +5,9 @@ Posts formatted for [GatsbyJS](https://www.gatsbyjs.org/).
 
 ### 2019
 
+#### October
+- [2019-10-03 Redux](./src/pages/2019-10-03-redux/index.md)
+
 #### September
 - [2019-09-14 Advanced React](./src/pages/2019-09-14-advanced-react/index.md)
 - [2019-09-03 TSTUFF | Second Build Week
