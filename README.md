@@ -5,6 +5,23 @@ Posts formatted for [GatsbyJS](https://www.gatsbyjs.org/).
 
 ### 2019
 
+#### August
+- [2019-08-04 August Update](./src/pages/2019-08-04-august-update/index.md)
+
+#### July
+- [2019-07-06 First Build Week
+  Complete](./src/pages/2019-07-06-first-build-week-complete/index.md)
+
+#### June
+
+- [2019-06-15 Applied
+  JavaScript](./src/pages/2019-06-15-applied-javascript/index.md)
+
+#### May
+
+- [2019-05-29 One Month of Lambda
+  School](./src/pages/2019-05-29-one-month-of-lambda-school/index.md)
+
 #### April
 
 - [2019-04-27 First Week of Lambda
