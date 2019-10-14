@@ -6,6 +6,8 @@ Posts formatted for [GatsbyJS](https://www.gatsbyjs.org/).
 ### 2019
 
 #### October
+- [2019-10-13 React Testing, Authentication &
+  Deployment](./src/pages/2019-10-13-react-testing-auth-deployment.md)
 - [2019-10-03 Redux](./src/pages/2019-10-03-redux/index.md)
 
 #### September
