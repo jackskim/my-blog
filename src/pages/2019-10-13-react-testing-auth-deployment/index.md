@@ -3,7 +3,7 @@ path: "/react-testing-auth-deployment"
 title: "Testing, Authentication & Deployment in React"
 date: "2019-10-13"
 tags: ['react', 'testing', 'authentication', 'zeit', 'lambda school']
-excerpt: "Since my last post, I've been learning and implementing Redux..."
+excerpt: "Over the past two weeks, I learned: How to use Snapshot testing..."
 ---
 
 # Testing, Authentication & Deployment in React
