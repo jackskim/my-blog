@@ -1,5 +1,5 @@
 ---
-path: "/react-testing-authentication-deployment"
+path: "/react-testing-auth-deployment"
 title: "Testing, Authentication & Deployment in React"
 date: "2019-10-13"
 tags: ['react', 'testing', 'authentication', 'zeit', 'lambda school']
