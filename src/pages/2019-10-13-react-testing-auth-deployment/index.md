@@ -18,7 +18,7 @@ Over the past two weeks, I learned:
 
 ## Notes
 
-### Snapshots / Async
+### Snapshots / Async Testing
 
 Snapshot testing is a useful tool for detecting unexpected changes to a component's UI.
 
@@ -56,9 +56,9 @@ test("it renders Success! upon success", async () => {
 
 ### Mocks
 
-When testing our app functions, we may run into issues like impure functions (due to dependencies like `uuid`, or needing to test if callbacks were invoked - with the correct arguments.  
+When testing our app functions, we may run into issues like impure functions (due to dependencies like `uuid`), or needing to test if callbacks were invoked - with the correct arguments.  
 
-We can use **mock** functions to solve this issues.
+We can use **mock** functions to solve these issues.
 
 Mock functions can simulate the behavior of the real modules. (Eg. create a fake `uuid` mock that returns the same id each time).
 
@@ -83,7 +83,7 @@ export const axiosWithAuth = () => {
 };
 ```
 
-Once we have authentication set up, we can set up protected routes to keep our data secure from unauthorized users.
+Once we have authentication set up, we can use protected routes to keep our data secure from unauthorized users.
 
 **Example of a protected route component:**
 ```javascript
@@ -109,7 +109,8 @@ export default PrivateRoute;
 ### Web Servers & Deployment
 
 **A VERY simplified web server summary:**
-The internet is basically a network of interconnected computers. The web is made up of data stored on web servers around the world.
+
+The internet is basically a network of interconnected computers. The world wide web is a part of the internet. It's made up of data stored on web servers around the world.
 
 Web server refers to two things:
 1. A computer that stores the code for a web resource
