@@ -3,7 +3,7 @@ path: "/relational-databases-modeling"
 title: "Relational Databases & Data Modeling"
 date: "2019-11-23"
 tags: ['RDBMS', 'SQL', 'Knex', 'data normalization', 'lambda school']
-excerpt: ""
+excerpt: "The past couple of weeks at Lambda School were the most..."
 ---
 
 # Relational Databases & Data Modeling
