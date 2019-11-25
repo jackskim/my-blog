@@ -6,9 +6,8 @@ Posts formatted for [GatsbyJS](https://www.gatsbyjs.org/).
 ### 2019
 
 #### November
+- [2019-11-23 Relational Databases & Data Modeling](./src/pages/2019-11-23-relational-databases-modeling/index.md)
 - [2019-11-09 Building a Web API](./src/pages/2019-11-09-building-a-web-api/index.md)
-- [2019-11-23 Relational Databases & Data
-    Modeling](./src/pages/2019-11-23-relational-databases-modeling/index.md)
 
 #### October
 - [2019-10-13 React Testing, Authentication &
