@@ -3,6 +3,11 @@ Repo to store my blog entries until I remake my portfolio.
 
 Posts formatted for [GatsbyJS](https://www.gatsbyjs.org/).
 
+### 2020
+
+#### January
+- [2020-01-26 2020 So Far](./src/pages/2020-01-26-2020-so-far/index.md)
+
 ### 2019
 
 #### December
